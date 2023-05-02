@@ -3,7 +3,7 @@ package ast
 import (
 	"bytes"
 
-	"github.com/KawauchiToma/monkey-interpreter-sample/token"
+	"github.com/toMaTo0502/monkey-interpreter-sample/token"
 )
 
 type Node interface {
