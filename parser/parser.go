@@ -9,6 +9,8 @@ import (
 	"github.com/toMaTo0502/monkey-interpreter-sample/token"
 )
 
+var enableTracing = false
+
 // Monkeyプログラムにおける優先順位
 const (
 	_ int = iota
